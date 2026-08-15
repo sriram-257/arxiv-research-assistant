@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Large generated ArXiv data/index files
+data/arxiv_chunks.jsonl
+data/arxiv_cs_ai_ml.jsonl
+data/arxiv_embeddings.jsonl
+data/arxiv_faiss.index
+data/arxiv_metadata.jsonl
